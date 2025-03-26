@@ -1,5 +1,5 @@
 using System;
-
+// Csharp Code for Stack
 public class Node
 {
     public int Data;
